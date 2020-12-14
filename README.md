@@ -4,4 +4,5 @@ I have no idea what I'm doing. Just trying to put all of my papers in one place 
 
 ## Papers
 
-[LScryptocurrency.pdf](https://github.com/spspitze/spspitze.github.io/papers/Liang_Spitze_Cryptocurrency.pdf)
+[LScryptocurrency.pdf](https://github.com/spspitze/spspitze.github.io/blob/main/papers/Liang_Spitze_Cryptocurrency.pdf)
+<a href="https://github.com/spspitze/spspitze.github.io/blob/main/papers/Liang_Spitze_Cryptocurrency.pdf" target="_blank">PDF.</a>
